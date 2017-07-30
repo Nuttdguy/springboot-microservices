@@ -1,0 +1,47 @@
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+*.properties
+.settings/
+.loadpath
+.recommenders
+*.db
+# Eclipse Core
+.project
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# Java annotation processor (APT)
+.factorypath
+
+# sbteclipse plugin
+.target
+
+# Package Files #
+BittrexKeyUtil.java
+*.jar
+*.war
+*.ear
+*.class
+
+.DS_Store
+
+# Database seed data
+*.sql
+
+# Maven
+log/
+target/
+
+/build/
+/bin/
